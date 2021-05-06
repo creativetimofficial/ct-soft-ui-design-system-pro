@@ -1,6 +1,6 @@
 # [Soft UI Design System PRO](http://demos.creative-tim.com/soft-ui-design-system-pro/presentation.html?ref=readme-sudsp)
 
-![version](https://img.shields.io/badge/version-1.0.2-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/ct-soft-ui-design-system-pro.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-soft-ui-design-system-pro/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-soft-ui-design-system-pro.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-soft-ui-design-system-pro/issues?q=is%3Aissue+is%3Aclosed)
+![version](https://img.shields.io/badge/version-1.0.4-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/ct-soft-ui-design-system-pro.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-soft-ui-design-system-pro/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-soft-ui-design-system-pro.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-soft-ui-design-system-pro/issues?q=is%3Aissue+is%3Aclosed)
 
 ![Image](https://s3.amazonaws.com/creativetim_bucket/products/414/original/opt_sds_thumbnail.png?1612539858)
 
