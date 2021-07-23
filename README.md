@@ -1,4 +1,4 @@
-# [Soft UI Design System PRO](http://demos.creative-tim.com/soft-ui-design-system-pro/presentation.html?ref=readme-sudsp)
+# [Soft UI Design System PRO](http://demos.creative-tim.com/soft-ui-design-system-pro/presentation.html?ref=readme-sudsp) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?url=https://www.creative-tim.com/product/soft-ui-design-system-pro&text=Check%20Soft%20UI%20Design%20System%20Pro%20made%20by%20@CreativeTim%20#webdesign%20#designSystem%20#softDesign%20#html%20https://www.creative-tim.com/product/soft-ui-design-system-pro)
 
 ![version](https://img.shields.io/badge/version-1.0.6-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/ct-soft-ui-design-system-pro.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-soft-ui-design-system-pro/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-soft-ui-design-system-pro.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-soft-ui-design-system-pro/issues?q=is%3Aissue+is%3Aclosed)
 
