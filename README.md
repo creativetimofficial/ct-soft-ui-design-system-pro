@@ -23,22 +23,28 @@ During the development of this design system, we have used many existing resourc
 - [Smooth Scroll](https://github.com/cferdinandi/smooth-scroll) - A lightweight script to animate scrolling to anchor links
 - [Tilt](https://micku7zu.github.io/vanilla-tilt.js/index.html) - A smooth 3D tilt javascript library
 - [Typed](https://mattboldt.com/demos/typed-js/) - A JavaScript Typing Animation Library
+- [Nepcha Analytics](https://nepcha.com?ref=readme) for the analytics tool. Nepcha is already integrated with Soft UI Design System Pro. You can use it to gain insights into your sources of traffic.
 
 Let us know your thoughts below. And good luck with development!
 
 ## Table of Contents
 
-* [Versions](#versions)
-* [Demo](#demo)
-* [Quick Start](#quick-start)
-* [Documentation](#documentation)
-* [File Structure](#file-structure)
-* [Browser Support](#browser-support)
-* [Resources](#resources)
-* [Reporting Issues](#reporting-issues)
-* [Technical Support or Questions](#technical-support-or-questions)
-* [Licensing](#licensing)
-* [Useful Links](#useful-links)
+- [Soft UI Design System PRO ](#soft-ui-design-system-pro-)
+      - [Special thanks](#special-thanks)
+  - [Table of Contents](#table-of-contents)
+  - [Versions](#versions)
+  - [Demo](#demo)
+  - [Quick start](#quick-start)
+  - [Terminal Commands](#terminal-commands)
+  - [Documentation](#documentation)
+    - [What's included](#whats-included)
+  - [Browser Support](#browser-support)
+  - [Resources](#resources)
+  - [Reporting Issues](#reporting-issues)
+  - [Technical Support or Questions](#technical-support-or-questions)
+  - [Licensing](#licensing)
+  - [Useful Links](#useful-links)
+        - [Social Media](#social-media)
 
 ## Versions
 
@@ -113,6 +119,7 @@ At present, we officially aim to support the last two versions of the following 
 - [License Agreement](https://www.creative-tim.com/license?ref=readme-sudsp)
 - [Support](https://www.creative-tim.com/contact-us?ref=readme-sudsp)
 - Issues: [Github Issues Page](https://github.com/creativetimofficial/ct-soft-ui-design-system-pro/issues)
+- [Nepcha Analytics](https://nepcha.com?ref=readme) - Analytics tool for your website
 
 ## Reporting Issues
 We use GitHub Issues as the official bug tracker for the Soft UI Design System PRO. Here are some advices for our users that want to report an issue:
@@ -127,7 +134,7 @@ If you have questions or need help integrating the product please [contact us](h
 
 ## Licensing
 
-- Copyright 2021 [Creative Tim](https://www.creative-tim.com?ref=readme-sudsp)
+- Copyright 2023 [Creative Tim](https://www.creative-tim.com?ref=readme-sudsp)
 - Creative Tim [license](https://www.creative-tim.com/license?ref=readme-sudsp)
 
 ## Useful Links
