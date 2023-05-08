@@ -7,6 +7,7 @@
 - update nav-link on navbar dark
 - fix `input-group-text` focus state
 - fix `pagination` and `accordion` text color
+- update `.container-fluid` and `.container` padding-x
 
 ## [1.1.0] 2022-06-03
 ### Updates and Improvements
