@@ -1,5 +1,10 @@
 # Change Log
 
+## [1.2.0] 2024-10-28
+### Updates and Improvements
+- update Bootstrap to v5.3.3
+- all plugins updated to the latest version
+
 ## [1.1.1] 2022-10-06
 ### Improvements & Bugfixing
 - upgrade Bootstrap version to v5.2.2
